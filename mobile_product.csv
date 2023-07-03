@@ -1,0 +1,81 @@
+Product ID,Product Name,Brand,Price,Operating System,RAM
+1,iPhone 12,Apple,999,iOS,4GB
+2,Galaxy S21,Samsung,899,Android,8GB
+3,Redmi Note 10,Xiaomi,249,Android,6GB
+4,iPhone SE,Apple,399,iOS,3GB
+5,OnePlus 9,OnePlus,699,Android,8GB
+6,Mi 11 Lite,Xiaomi,299,Android,6GB
+7,Galaxy A52,Samsung,349,Android,6GB
+8,iPhone 13,Apple,1099,iOS,4GB
+9,Poco X3 Pro,Xiaomi,249,Android,6GB
+10,Pixel 5,Google,699,Android,8GB
+11,Vivo X60,Vivo,499,Android,8GB
+12,Realme 8 Pro,Realme,279,Android,6GB
+13,iPhone 13 Mini,Apple,899,iOS,4GB
+14,Galaxy Note 20 Ultra,Samsung,1299,Android,12GB
+15,Mi 11X,Xiaomi,399,Android,8GB
+16,iPhone 11,Apple,699,iOS,4GB
+17,OnePlus 9 Pro,OnePlus,999,Android,12GB
+18,Redmi 9,Xiaomi,199,Android,4GB
+19,Galaxy A72,Samsung,449,Android,8GB
+20,iPhone XR,Apple,599,iOS,3GB
+21,Mi 10T Pro,Xiaomi,499,Android,8GB
+22,Pixel 4a,Google,349,Android,6GB
+23,Redmi Note 9S,Xiaomi,249,Android,6GB
+24,Galaxy S20,Samsung,799,Android,8GB
+25,iPhone 11 Pro,Apple,999,iOS,4GB
+26,OnePlus Nord,OnePlus,399,Android,8GB
+27,Redmi Note 8,Xiaomi,199,Android,4GB
+28,Galaxy A51,Samsung,299,Android,6GB
+29,iPhone X,Apple,899,iOS,3GB
+30,Mi 10,Xiaomi,799,Android,8GB
+31,Galaxy S10,Samsung,699,Android,8GB
+32,iPhone 8,Apple,449,iOS,2GB
+33,OnePlus 8T,OnePlus,599,Android,8GB
+34,Redmi Note 7,Xiaomi,199,Android,4GB
+35,Galaxy A71,Samsung,449,Android,6GB
+36,iPhone XS,Apple,899,iOS,4GB
+37,Mi 9T,Xiaomi,349,Android,6GB
+38,Galaxy S9,Samsung,599,Android,4GB
+39,iPhone 7,Apple,449,iOS,2GB
+40,Redmi Note 6 Pro,Xiaomi,199,Android,4GB
+41,Galaxy A50,Samsung,299,Android,4GB
+42,iPhone 6S,Apple,299,iOS,2GB
+43,Mi Note 10,Xiaomi,599,Android,6GB
+44,Galaxy S8,Samsung,499,Android,4GB
+45,iPhone SE 2020,Apple,399,iOS,3GB
+46,OnePlus 7T,OnePlus,499,Android,8GB
+47,Redmi Note 5,Xiaomi,199,Android,4GB
+48,Galaxy A40,Samsung,249,Android,4GB
+49,iPhone 6,Apple,249,iOS,1GB
+50,Mi A3,Xiaomi,249,Android,4GB
+51,Galaxy A20,Samsung,199,Android,3GB
+52,iPhone 5S,Apple,199,iOS,1GB
+53,OnePlus 6T,OnePlus,449,Android,8GB
+54,Redmi 7A,Xiaomi,99,Android,2GB
+55,Galaxy J7,Samsung,149,Android,2GB
+56,iPhone 5C,Apple,149,iOS,1GB
+57,Mi 8 Lite,Xiaomi,199,Android,4GB
+58,Galaxy A10,Samsung,149,Android,2GB
+59,iPhone 4S,Apple,99,iOS,512MB
+60,OnePlus 6,OnePlus,399,Android,8GB
+61,Redmi 6A,Xiaomi,99,Android,2GB
+62,Galaxy J5,Samsung,129,Android,2GB
+63,iPhone 4,Apple,99,iOS,512MB
+64,Mi Mix 3,Xiaomi,349,Android,6GB
+65,Galaxy S7,Samsung,299,Android,4GB
+66,iPhone 3GS,Apple,49,iOS,256MB
+67,OnePlus 5T,OnePlus,299,Android,8GB
+68,Redmi 5A,Xiaomi,99,Android,2GB
+69,Galaxy J3,Samsung,99,Android,1.5GB
+70,iPhone 3G,Apple,49,iOS,128MB
+71,Mi 6,Xiaomi,249,Android,6GB
+72,Galaxy S6,Samsung,249,Android,3GB
+73,iPhone 2G,Apple,29,iOS,128MB
+74,OnePlus 5,OnePlus,399,Android,6GB
+75,Redmi 4A,Xiaomi,99,Android,2GB
+76,Galaxy J2,Samsung,79,Android,1GB
+77,iPhone SE 1st Gen,Apple,249,iOS,2GB
+78,Mi 5X,Xiaomi,199,Android,4GB
+79,Galaxy S5,Samsung,199,Android,2GB
+80,iPhone 1st Gen,Apple,19,iOS,128MB
